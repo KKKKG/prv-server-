@@ -1,0 +1,43 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd …>
+<plist version=1.0>
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>https://nekoo.ru/uploads/5290050124/c7e79520-d226-4dfe-b7f9-0e6f9981d7f5.ipa</string>
+                                </dict>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <key>url</key>
+                                        <string>#</string>
+                                </dict>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>full-size-image</string>
+                                        <key>url</key>
+                                        <string>#</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.toyopagroup.picaboo2</string>
+                                <key>bundle-version</key>
+                                <string></string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>App Signer</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
